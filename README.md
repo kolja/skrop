@@ -1,3 +1,7 @@
+你好！
+很冒昧用这样的方式来和你沟通，如有打扰请忽略我的提交哈。我是光年实验室（gnlab.com）的HR，在招Golang开发工程师，我们是一个技术型团队，技术氛围非常好。全职和兼职都可以，不过最好是全职，工作地点杭州。
+我们公司是做流量增长的，Golang负责开发SAAS平台的应用，我们做的很多应用是全新的，工作非常有挑战也很有意思，是国内很多大厂的顾问。
+如果有兴趣的话加我微信：13515810775  ，也可以访问 https://gnlab.com/，联系客服转发给HR。
 # Skrop &nbsp; [![Build Status](https://travis-ci.org/zalando-stups/skrop.svg?branch=master)](https://travis-ci.org/zalando-stups/skrop) [![codecov](https://codecov.io/gh/zalando-stups/skrop/branch/master/graph/badge.svg)](https://codecov.io/gh/zalando-stups/skrop) [![Go Report Card](https://goreportcard.com/badge/github.com/zalando-stups/skrop)](https://goreportcard.com/report/github.com/zalando-stups/skrop) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/zalando-stups/skrop/master/LICENSE)
 
 Skrop is a media service based on [Skipper](https://github.com/zalando/skipper) and the [vips](https://github.com/jcupitt/libvips) library.
